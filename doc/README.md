@@ -1,1 +1,0 @@
-# Práctica 4 - Arrays, tuplas y enumerados.
