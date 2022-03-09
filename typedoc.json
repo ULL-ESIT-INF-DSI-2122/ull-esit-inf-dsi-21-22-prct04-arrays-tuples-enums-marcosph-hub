@@ -1,0 +1,6 @@
+{
+  "entryPoints": [
+    "./src/multiply.ts"
+  ],
+  "out": "./documentation-TD"
+}
